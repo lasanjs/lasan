@@ -1,0 +1,26 @@
+{
+  "name": "lasan.js",
+  "description": "monorepo for lasan js",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Lasan",
+  "license": "MIT",
+  "homepage": "https://github.com/lasanjs/lasan#README",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lasanjs/lasan.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lasanjs/lasan/issues"
+  },
+  "workspaces": [
+    "packages/template"
+  ],
+  "devDependencies": {
+    "eslint": "^9.8.0"
+  },
+  "scripts": {
+  }
+}
