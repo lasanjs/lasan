@@ -1,0 +1,55 @@
+│ 🛈
+│
+│ ⬦ The project is in continuous development.
+│ ⬦ Not recommended for production use.
+
+┌─────────────────────────────────────────────┐
+│ Lasan JS - The Framework for Web Interfaces │
+└─────────────────────────────────────────────┘
+
+⦿ Performance is the key.
+⦿ Security is the foundation.
+⦿ Fully open-source.
+
+□ Features
+
+There are lots of features in Lasan JS, some of them are:
+  ⬦ Seamless CSS/SCSS and JavaScript/TypeScript support.
+  ⬦ File and Memory based rendering.
+  ⬦ Custom templating language.
+  ⬦ Reactive data binding.
+  ⬦ And many more...
+
+Read the full documentation to know more about Lasan JS.
+
+□ Packages
+
+Lasan JS is organized as a monorepo, comprising several integrated packages that together
+form a comprehensive web framework. Below is the list of packages:
+  ⬦ @lasan.js/template: Template engine for HTML, CSS, and JS (See packages/template)
+
+□ Documentation
+
+The official documentation for Lasan JS is available at docs/ directory.
+
+□ License
+
+Lasan JS is MIT licensed. See the LICENSE file in the root of this repository for details.
+
+□ Contribution
+
+Lasan JS is an open-source project, and we welcome your contributions! Here
+are some ways you can get involved:
+  1. Report a Bug: Found a bug? Let us know by opening an issue.
+  2. Contribute Code: Have a solution or improvement? Submit a pull request.
+  3. Improve Documentation: Help us make our documentation better.
+  4. Suggest a Feature: Have an idea for a new feature? We’d love to hear it.
+
+If you have any suggestions or want to contribute, feel free to open an issue
+or a pull request. Your contributions are invaluable to us!
+
+Love Lasan? Give our repo a star ⭒ to support us!
+
+PS:
+  ⬦ This may not be the best, but if something can do it, it does it very well.
+  ⬦ Lasan stands for a Lightweight, Adaptable, Scalable, Agile, and Nimble web framework.
