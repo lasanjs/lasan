@@ -1,0 +1,13 @@
+# Ignore Directories
+
+.idea/
+.run/
+.vscode/
+.trash/
+
+node_modules/
+
+# Ignore Files
+
+package-lock.json
+bun.lockb

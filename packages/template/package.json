@@ -1,0 +1,31 @@
+{
+  "name": "@lasan.js/template",
+  "version": "0.0.0",
+  "description": "html template engine for lasan js",
+  "private": false,
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "lasan",
+    "lasan.js",
+    "template",
+    "template-engine"
+  ],
+  "author": "Lasan",
+  "license": "MIT",
+  "homepage": "https://github.com/lasanjs/lasan/tree/main/packages/template#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lasanjs/lasan.git",
+    "directory": "packages/template"
+  },
+  "bugs": {
+    "url": "https://github.com/lasanjs/lasan/issues"
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+    "antlr4": "^4.13.1"
+  }
+}
