@@ -22,5 +22,6 @@
     "eslint": "^9.8.0"
   },
   "scripts": {
+    "lint:template": "eslint packages/template"
   }
 }
