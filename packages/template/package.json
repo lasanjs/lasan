@@ -24,6 +24,8 @@
     "url": "https://github.com/lasanjs/lasan/issues"
   },
   "scripts": {
+    "template:run": "bun ./src/index.js",
+    "tests:lexer:01": "bun ./tests/lexer/01.js"
   },
   "devDependencies": {
     "antlr4": "^4.13.1"
